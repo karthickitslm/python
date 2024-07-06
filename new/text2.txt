@@ -1,0 +1,4 @@
+cat
+apple
+mango
+carrot
