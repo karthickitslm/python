@@ -1,5 +1,6 @@
 print("I will count my chickens:")
 
+# Applying Mathematical Operations over the print operation
 print("Hens", 25 + 30 / 6)
 print("Roosters", 100 - 25 * 3 % 4)
 
@@ -20,6 +21,7 @@ print("Oh, that's why it's false.")
 
 print("How about some more.")
 
+# Comparing Values over the print statement
 print("Is it greater?", 5 > -2)
 
 print("Is it greater than equal?", 5 <= -2)
