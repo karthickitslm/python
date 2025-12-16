@@ -1,0 +1,18 @@
+# Lists and Learnings around it
+basket = []
+item1 = input("Enter a Grocery Item 1")
+basket.append(item1)
+item2 = input("Enter a Grocery Item 2")
+basket.append(item2)
+item3 = input("Enter a Grocery Item 3")
+basket.append(item3)
+item4 = input("Enter a Grocery Item 4")
+basket.append(item4)
+item5 = input("Enter a Grocery Item 5")
+basket.append(item5)
+basket.sort()
+print(basket)
+#i = input("Enter the index value of the element which is to be removed from the list")
+#basket.pop(i)
+#final = basket.sort()
+#print(final)
