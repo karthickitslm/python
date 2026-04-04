@@ -1,0 +1,5 @@
+install docker
+flask app >> docker container
+as a image postgres #using docker pull
+posgres should be run as a container
+sqllite
